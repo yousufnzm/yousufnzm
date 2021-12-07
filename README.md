@@ -27,11 +27,11 @@
 
 <div align="center">
   <a href="https://github.com/yousufnzm/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=yousufnzm&hide=contribs,issues&show_icons=true&theme=ayu-mirage" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yousufnzm&hide=contribs,issues&show_icons=true&theme=midnight-purple" height="180px" />
   </a>
   <br>
   <a href="https://github.com/yousufnzm/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousufnzm&theme=ayu-mirage&hide=css" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousufnzm&theme=midnight-purple&hide=css" height="180px"/>
   </a>
 </div>
 
