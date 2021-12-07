@@ -12,7 +12,6 @@
   ⚡ Fun fact: My hobbies are designing and solving puzzles 😌 <br>
 </p>
 
-<div align="center">
   <a href="https://www.linkedin.com/in/yousufnizam">
     <img alt="Yousuf Nizam - LinkedIn" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
   </a>
@@ -21,7 +20,6 @@
   </a>
   
   ![](https://komarev.com/ghpvc/?username=yousufnzm&color=blueviolet&label=PROFILE+VIEWS&style=plastic)
-</div>
 
 <table border="0" width="100%" >
   <tr>
