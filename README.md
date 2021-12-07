@@ -25,7 +25,7 @@
   ⚡ Fun fact: My hobbies are designing and solving puzzles 😌 <br>
 </p>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/yousufnzm/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=yousufnzm&hide=contribs,issues&show_icons=true&theme=ayu-mirage" height="180px" />
   </a>
