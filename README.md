@@ -42,6 +42,4 @@
       </a>
  </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yousufnzm&show_icons=true&theme=radical)  
-
 ![GitHub metrics](https://metrics.lecoq.io/yousufnzm)
