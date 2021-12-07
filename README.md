@@ -27,7 +27,8 @@
   </div>
   </tr>
 </table>
-<br><br>
+
+<img src="short_sneak.gif" width="50px">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yousufnzm&show_icons=true&theme=radical)  
 
