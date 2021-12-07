@@ -11,11 +11,9 @@
 <a href="https://twitter.com/yousuf_nzm">
   <img align="left" alt="Yousuf Nizam - Twitter" width="50px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
 </a>
-<br><br>
+<br><br><br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yousufnzm&show_icons=true&theme=radical)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yousufnzm)  
 
 ![GitHub metrics](https://metrics.lecoq.io/yousufnzm)  
 
