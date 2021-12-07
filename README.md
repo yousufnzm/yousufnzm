@@ -40,8 +40,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yousufnzm&show_icons=true&theme=radical)  
 
-![GitHub metrics](https://metrics.lecoq.io/yousufnzm)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yousufnzm&theme=radical)  
+![GitHub metrics](https://metrics.lecoq.io/yousufnzm)
 
 ![](https://komarev.com/ghpvc/?username=yousufnzm&color=blueviolet&label=PROFILE+VIEWS&style=plastic)
