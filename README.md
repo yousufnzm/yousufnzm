@@ -15,7 +15,7 @@
         ⚡ Fun fact: My hobbies are designing and solving puzzles 😌 <br>
        </p>
     </td>
-    <td width="30%">
+    <td width="50%">
       <div align="center">
       <a href="https://www.linkedin.com/in/yousufnizam">
     <img alt="Yousuf Nizam - LinkedIn" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
