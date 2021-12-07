@@ -1,4 +1,4 @@
-### Hi there, I am Yousuf Nizam 👋
+### Hi there wanderer, I am Yousuf Nizam 👋
 ## I'm a massive AI enthusiast and a Developer!! 👨🏻‍💻
 
 - 🌱 I’m currently learning GANs and CNNs.
