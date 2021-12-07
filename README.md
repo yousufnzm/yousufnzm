@@ -6,7 +6,7 @@
   I'm a massive AI enthusiast and a Developer!! 👨🏻‍💻
 </h3>
 
-<div align="center">
+<div align="left">
   🌱 I’m currently learning GANs and CNNs. <br>
   💬 Ask me about any topic of Reinforcement Learning <br>
   ⚡ Fun fact: My hobbies are designing and solving puzzles 😌 <br>
