@@ -41,5 +41,7 @@
        <img src="short_sneak.gif" width="100%" />
       </a>
  </div>
-
-![GitHub metrics](https://metrics.lecoq.io/yousufnzm)
+ 
+ <div align="center">
+       <img src="https://metrics.lecoq.io/yousufnzm" width="100%" />
+ </div>
