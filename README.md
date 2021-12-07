@@ -28,7 +28,27 @@
   </tr>
 </table>
 
-<img src="short_sneak.gif" width="100%">
+<table border="0" width="100%" >
+  <tr>
+    <td width="50%">
+      <p>
+        Watch the finals 👉 
+      </p>
+    </td>
+    <td width="50%">
+      <div align="center">
+      <a href="https://www.youtube.com/watch?v=sS0U3j262Uw">
+       <img src="short_sneak.gif" width="100%" />
+      </a>
+  <a href="https://twitter.com/yousuf_nzm">
+    <img alt="Yousuf Nizam - Twitter" width="50px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
+  </a>
+    </td>
+  </div>
+  </tr>
+</table>
+
+<a href
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yousufnzm&show_icons=true&theme=radical)  
 
