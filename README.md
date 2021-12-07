@@ -8,7 +8,7 @@
 
 <table border="0" width="100%" >
   <tr>
-    <td width="70%">
+    <td width="50%">
       <p>
         🌱 I’m currently learning GANs and CNNs. <br>
         💬 Ask me about any topic of Reinforcement Learning <br>
