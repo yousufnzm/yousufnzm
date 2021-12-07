@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  🥈 AWS DeepRacer World Championship 2021 Runner Up <br>
+  🥈 AWS DeepRacer World Championship 2021 Runner Up 🚗 <br>
   🌱 I’m currently learning GANs and CNNs. <br>
   💬 Ask me about any topic of Reinforcement Learning <br>
   ⚡ Fun fact: My hobbies are designing and solving puzzles 😌 <br>
@@ -38,7 +38,7 @@
 <table border="0" width="100%" >
   <tr>
     <td width="50%">
-      <h3 align="center"> AWS DeepRacer World Championship 2021 finals 🚗 </h3>
+      <h3 align="center"> AWS DeepRacer World Championship 2021 finals </h3>
       <a href="https://www.youtube.com/watch?v=sS0U3j262Uw">
        <img align="left" src="short_sneak.gif" loop="true" width="100%" />
       </a>
