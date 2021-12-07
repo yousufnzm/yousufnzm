@@ -15,10 +15,6 @@
 
 ## My Github Stats 📊
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yousufnzm)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousufnzm&theme=radical&layout=compact)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yousufnzm&show_icons=true&theme=radical)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yousufnzm)  
