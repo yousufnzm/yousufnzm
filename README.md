@@ -1,5 +1,10 @@
-### Hi there wanderer, I am Yousuf Nizam 👋
-## I'm a massive AI enthusiast and a Developer!! 👨🏻‍💻
+<h1 align="center">
+  Hi there wanderer, I am Yousuf Nizam 👋
+</h1>
+
+<h2 align="center">
+  I'm a massive AI enthusiast and a Developer!! 👨🏻‍💻
+</h2>
 
 - 🌱 I’m currently learning GANs and CNNs.
 - 💬 Ask me about any topic of Reinforcement Learning
