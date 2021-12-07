@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://twitter.com/yousuf_nzm">
-    <img  src="https://img.shields.io/twitter/follow/yousufnzm?label=Follow%20Me&style=social" alt="Follow @yousufnzm" />
+    <img src="https://img.shields.io/twitter/follow/yousuf_nzm?label=Follow%20Me&style=social" alt="Follow @yousufnzm" />
   </a>
   <a href="https://www.linkedin.com/in/yousufnizam">
     <img src="https://img.shields.io/badge/-yousufnizam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yousufnizam" alt="Follow @yousufnizam" />
