@@ -2,9 +2,9 @@
   Hi there wanderer, I am Yousuf Nizam 👋
 </h1>
 
-<h2 align="center">
+<h3 align="center">
   I'm a massive AI enthusiast and a Developer!! 👨🏻‍💻
-</h2>
+</h3>
 
 - 🌱 I’m currently learning GANs and CNNs.
 - 💬 Ask me about any topic of Reinforcement Learning
