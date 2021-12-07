@@ -12,7 +12,10 @@
   ⚡ Fun fact: My hobbies are designing and solving puzzles 😌 <br>
 </p>
 
-<a href="https://www.linkedin.com/in/yousufnizam">
+<table border="0" width="100%" >
+  <tr>
+    <td width="50%">
+      <a href="https://www.linkedin.com/in/yousufnizam">
   <img alt="Yousuf Nizam - LinkedIn" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
 </a>
 <a href="https://twitter.com/yousuf_nzm">
@@ -20,16 +23,10 @@
 </a>
 
 ![](https://komarev.com/ghpvc/?username=yousufnzm&color=blueviolet&label=PROFILE+VIEWS&style=plastic)
-
-<table border="0" width="100%" >
-  <tr>
-    <td width="50%">
-      <p>
-        Watch the finals 👉 
-      </p>
     </td>
     <td width="50%">
       <div align="center">
+        <h3> Watch the finals! </h3>
       <a href="https://www.youtube.com/watch?v=sS0U3j262Uw">
        <img src="short_sneak.gif" width="100%" />
       </a>
