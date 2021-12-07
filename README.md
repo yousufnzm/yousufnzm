@@ -19,6 +19,8 @@
   <a href="https://twitter.com/yousuf_nzm">
     <img alt="Yousuf Nizam - Twitter" width="50px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
   </a>
+  
+  ![](https://komarev.com/ghpvc/?username=yousufnzm&color=blueviolet&label=PROFILE+VIEWS&style=plastic)
 </div>
 
 <table border="0" width="100%" >
@@ -41,5 +43,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yousufnzm&show_icons=true&theme=radical)  
 
 ![GitHub metrics](https://metrics.lecoq.io/yousufnzm)
-
-![](https://komarev.com/ghpvc/?username=yousufnzm&color=blueviolet&label=PROFILE+VIEWS&style=plastic)
