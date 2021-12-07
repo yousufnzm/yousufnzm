@@ -16,6 +16,7 @@
        </p>
     </td>
     <td width="50%">
+      <div align="center">
       <a href="https://www.linkedin.com/in/yousufnizam">
     <img align="left" alt="Yousuf Nizam - LinkedIn" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
   </a>
@@ -23,9 +24,10 @@
     <img align="left" alt="Yousuf Nizam - Twitter" width="50px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
   </a>
     </td>
+  </div>
   </tr>
 </table>
-<br><br><br>
+<br><br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yousufnzm&show_icons=true&theme=radical)  
 
