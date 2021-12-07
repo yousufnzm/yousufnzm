@@ -7,9 +7,9 @@
 </h3>
 
 <div align="center">
-  - 🌱 I’m currently learning GANs and CNNs. <br>
-  - 💬 Ask me about any topic of Reinforcement Learning <br>
-  - ⚡ Fun fact: My hobbies are designing and solving puzzles 😌 <br>
+  🌱 I’m currently learning GANs and CNNs. <br>
+  💬 Ask me about any topic of Reinforcement Learning <br>
+  ⚡ Fun fact: My hobbies are designing and solving puzzles 😌 <br>
 </div>
 
 <div align="center">
