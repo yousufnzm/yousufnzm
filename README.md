@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  🥈 AWS DeepRacer World Championship 2021 Runner Up 
+  🥈 AWS DeepRacer World Championship 2021 Runner Up <br>
   🌱 I’m currently learning GANs and CNNs. <br>
   💬 Ask me about any topic of Reinforcement Learning <br>
   ⚡ Fun fact: My hobbies are designing and solving puzzles 😌 <br>
