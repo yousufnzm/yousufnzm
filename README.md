@@ -36,8 +36,16 @@
 
 
 <div align="center">
-        <h3> Watch the AWS DeepRacer World Championship 2021 finals!! 🚗 👇 </h3>
+      <h3 align="left"> Watch the AWS DeepRacer World Championship 2021 finals!! 🚗 👇 </h3>
       <a href="https://www.youtube.com/watch?v=sS0U3j262Uw">
-       <img src="short_sneak.gif" loop="true" width="100%" />
+       <img src="short_sneak.gif" loop="true" width="50%" />
       </a>
+      
+  <h3 align="right"> Watch my interview for DeepRacer </h3>
+  <a href="https://www.youtube.com/watch?v=0l3tyn6ZQYs">
+    <img src="https://i9.ytimg.com/vi/0l3tyn6ZQYs/mq1.jpg?sqp=CITcvo0G&rs=AOn4CLAas5PmdNmcFvkOVsLp7tKW7VKRTA" width=50%/>
+  </a>
+      
  </div>
+ 
+ 
