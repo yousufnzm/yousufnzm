@@ -42,7 +42,3 @@
        <img src="short_sneak.gif" width="100%" />
       </a>
  </div>
- 
- <div align="center">
-       <img src="https://metrics.lecoq.io/yousufnzm"  />
- </div>
