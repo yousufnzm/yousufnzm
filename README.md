@@ -6,27 +6,20 @@
   I'm a massive AI enthusiast and a Developer!! 👨🏻‍💻
 </h3>
 
-<table border="0" width="100%" >
-  <tr>
-    <td width="50%">
-      <p align="center">
-        🌱 I’m currently learning GANs and CNNs. <br>
-        💬 Ask me about any topic of Reinforcement Learning <br>
-        ⚡ Fun fact: My hobbies are designing and solving puzzles 😌 <br>
-       </p>
-    </td>
-    <td width="50%">
-      <div align="center">
-      <a href="https://www.linkedin.com/in/yousufnizam">
+<p align="left">
+  🌱 I’m currently learning GANs and CNNs. <br>
+  💬 Ask me about any topic of Reinforcement Learning <br>
+  ⚡ Fun fact: My hobbies are designing and solving puzzles 😌 <br>
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yousufnizam">
     <img alt="Yousuf Nizam - LinkedIn" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
   </a>
   <a href="https://twitter.com/yousuf_nzm">
     <img alt="Yousuf Nizam - Twitter" width="50px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
   </a>
-    </td>
-  </div>
-  </tr>
-</table>
+</div>
 
 <table border="0" width="100%" >
   <tr>
