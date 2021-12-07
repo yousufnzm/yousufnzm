@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there, I am Yousuf Nizam 👋
+## I'm a massive AI enthusiast and a Developer!! 👨🏻‍💻
 
-<!--
-**yousufnzm/yousufnzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning GANs and CNNs.
+- 💬 Ask me about any topic of Reinforcement Learning
+- ⚡ Fun fact: My hobbies are designing and solving puzzles 😌
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/yousufnizam">
+  <img align="left" alt="Yousuf Nizam - LinkedIn" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
+</a>
+<a href="https://twitter.com/yousuf_nzm">
+  <img align="left" alt="Yousuf Nizam - Twitter" width="50px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
+</a>
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Github Stats 📊
+
+![trophy](https://github-profile-trophy.vercel.app/?username=yousufnzm)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousufnzm&theme=radical&layout=compact)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yousufnzm&show_icons=true&theme=radical)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yousufnzm)  
+
+![GitHub metrics](https://metrics.lecoq.io/yousufnzm)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yousufnzm&theme=radical)  
+
+![](https://komarev.com/ghpvc/?username=yousufnzm&color=blueviolet&label=PROFILE+VIEWS&style=plastic)
