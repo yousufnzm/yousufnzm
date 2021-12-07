@@ -6,9 +6,11 @@
   I'm a massive AI enthusiast and a Developer!! 👨🏻‍💻
 </h3>
 
-- 🌱 I’m currently learning GANs and CNNs.
-- 💬 Ask me about any topic of Reinforcement Learning
-- ⚡ Fun fact: My hobbies are designing and solving puzzles 😌
+<div align="center">
+  - 🌱 I’m currently learning GANs and CNNs.
+  - 💬 Ask me about any topic of Reinforcement Learning
+  - ⚡ Fun fact: My hobbies are designing and solving puzzles 😌
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yousufnizam">
