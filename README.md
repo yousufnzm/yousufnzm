@@ -43,5 +43,5 @@
  </div>
  
  <div align="center">
-       <img src="https://metrics.lecoq.io/yousufnzm" width="100%" />
+       <img src="https://metrics.lecoq.io/yousufnzm"  />
  </div>
