@@ -36,7 +36,7 @@
 
 
 <div align="center">
-        <h3> Watch the AWS DeepRacer World Championship 2021 finals!! 🚗 </h3>
+        <h3> Watch the AWS DeepRacer World Championship 2021 finals!! 🚗 👇 </h3>
       <a href="https://www.youtube.com/watch?v=sS0U3j262Uw">
        <img src="short_sneak.gif" loop="true" width="100%" />
       </a>
