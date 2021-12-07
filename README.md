@@ -12,14 +12,14 @@
   ⚡ Fun fact: My hobbies are designing and solving puzzles 😌 <br>
 </p>
 
-  <a href="https://www.linkedin.com/in/yousufnizam">
-    <img alt="Yousuf Nizam - LinkedIn" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
-  </a>
-  <a href="https://twitter.com/yousuf_nzm">
-    <img alt="Yousuf Nizam - Twitter" width="50px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
-  </a>
-  
-  ![](https://komarev.com/ghpvc/?username=yousufnzm&color=blueviolet&label=PROFILE+VIEWS&style=plastic)
+<a href="https://www.linkedin.com/in/yousufnizam">
+  <img alt="Yousuf Nizam - LinkedIn" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
+</a>
+<a href="https://twitter.com/yousuf_nzm">
+  <img alt="Yousuf Nizam - Twitter" width="50px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
+</a>
+
+![](https://komarev.com/ghpvc/?username=yousufnzm&color=blueviolet&label=PROFILE+VIEWS&style=plastic)
 
 <table border="0" width="100%" >
   <tr>
