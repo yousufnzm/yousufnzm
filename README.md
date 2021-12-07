@@ -14,8 +14,8 @@
     <img src="https://img.shields.io/badge/-yousufnizam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yousufnizam" alt="Follow @yousufnizam" />
   </a>
   <div align="center">
-  ![](https://komarev.com/ghpvc/?username=yousufnzm&color=blueviolet&label=PROFILE+VIEWS&style=plastic)
-    </div>
+  <img src="https://komarev.com/ghpvc/?username=yousufnzm&color=blueviolet&label=PROFILE+VIEWS&style=plastic)" />
+  </div>
 </p>
 
 <p align="center">
