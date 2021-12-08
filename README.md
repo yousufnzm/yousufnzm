@@ -46,7 +46,7 @@
     <td width="50%">
       <h3 align="center"> Interview for DeepRacer </h3>
       <a href="https://www.youtube.com/watch?v=0l3tyn6ZQYs">
-      <img align="right" src="https://i9.ytimg.com/vi/0l3tyn6ZQYs/mq1.jpg?sqp=CITcvo0G&rs=AOn4CLAas5PmdNmcFvkOVsLp7tKW7VKRTA" width=100%/>
+      <img align="right" src="interview_sneak.gif" width=100%/>
       </a>
     </td>
    <tr/>
