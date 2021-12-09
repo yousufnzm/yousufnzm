@@ -38,13 +38,13 @@
 <table border="0" width="100%" >
   <tr>
     <td width="50%">
-      <h3 align="center"> AWS DeepRacer World Championship 2021 finals </h3>
+      <h3 align="center"> 🏁 DeepRacer World Championship 2021 🏁 </h3>
       <a href="https://www.youtube.com/watch?v=sS0U3j262Uw">
        <img align="left" src="short_sneak.gif" loop="true" width="100%" />
-      </a>
+      </a> 
     </td>
     <td width="50%">
-      <h3 align="center"> Interview for DeepRacer </h3>
+      <h3 align="center"> 👨🏻‍💻 Interview for DeepRacer 🏎 /h3>
       <a href="https://www.youtube.com/watch?v=0l3tyn6ZQYs">
       <img align="right" src="interview_sneak.gif" width=100%/>
       </a>
