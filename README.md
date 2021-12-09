@@ -34,19 +34,25 @@
   </a>
 </div>
 
+<div align="center">
+  <h3 align="center"> 🏁 DeepRacer World Championship 2021 🏁 </h3>
+    <a href="https://www.youtube.com/watch?v=sS0U3j262Uw">
+      <img align="left" src="short_sneak.gif" loop="true" width="100%" />
+    </a>
+</div>
 
 <table border="0" width="100%" >
   <tr>
     <td width="50%">
-      <h3 align="center"> 🏁 DeepRacer World Championship 2021 🏁 </h3>
-      <a href="https://www.youtube.com/watch?v=sS0U3j262Uw">
-       <img align="left" src="short_sneak.gif" loop="true" width="100%" />
-      </a> 
-    </td>
-    <td width="50%">
       <h3 align="center"> 👨🏻‍💻 Interview for DeepRacer 🏎 </h3>
       <a href="https://www.youtube.com/watch?v=0l3tyn6ZQYs">
-      <img align="right" src="interview_sneak.gif" width=100%/>
+      <img align="right" src="sneak_peak_2020.gif" width=100%/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3 align="center"> 🏁 DeepRacer World Championship 2021 🏎 </h3>
+      <a href="https://www.youtube.com/watch?v=lBj3PN91aqE">
+        <img align="left" src="short_sneak.gif" loop="true" width="100%" />
       </a>
     </td>
    <tr/>
